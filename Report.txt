@@ -1,3 +1,0 @@
-Advanced Time Series Forecasting Project
-
-Placeholder report.
