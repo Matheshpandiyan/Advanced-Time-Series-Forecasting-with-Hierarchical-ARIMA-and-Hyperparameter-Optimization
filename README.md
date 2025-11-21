@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Hierarchical-ARIMA-and-Hyperparameter-Optimization
+This project builds a hierarchical time series forecasting system using ARIMA models optimized with Bayesian techniques. It predicts multiple related time series, applies reconciliation methods for coherent aggregation, and evaluates accuracy using metrics like RMSE and MASE to ensure reliable real-world forecasting
